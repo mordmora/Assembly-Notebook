@@ -4,6 +4,9 @@ sys_exit equ 1
 stdout equ 1
 stdin equ 2
 
+;todo:
+;asignar numeros a las variables num1 y num2
+;realizar la operacion
 
 section .data 
 
